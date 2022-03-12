@@ -12,5 +12,5 @@ It turns on the motor at 2.3 to 2.5Vdc and switches off at 1.2 to 1.5Vdc.
 The bottom line is that if you have a power source which will provide 2.5Vdc at 10uA this circuit should drive a pager motor. 
 It turns on the motor at 2.3 to 2.5Vdc and switches off at 1.2 to 1.5Vdc.
 
-![micropower_se2.jpg](/micropower_se2.jpg)
+![micropower_se2.jpg](/pummer/micropower_se2.jpg)
 
